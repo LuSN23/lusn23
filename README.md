@@ -32,6 +32,8 @@ Here are some ideas to get you started:
    <img align="center" alt="icone do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </div>
 
+![ralph oi](https://github.com/LuSN23/lusn23/blob/main/assets/images/ralph-oi.gif)
+
 ##
 
 <!--Contatos-->
@@ -39,4 +41,4 @@ Here are some ideas to get you started:
    <a href="mailto:lucianasarainunes@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/luciana-s-648292b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![ralph-oi](https://raw.githubusercontent.com/LuSN23/lusn23/main/assets/images/ralph-oi.gif) <!--gif de Oi-->
+
