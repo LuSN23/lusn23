@@ -31,7 +31,7 @@ Here are some ideas to get you started:
    <img align="center" alt="icone do CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" alt="icone do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </div>
-
+<br>
 ![ralph oi](https://github.com/LuSN23/lusn23/blob/main/assets/images/ralph-oi.gif)
 
 ##
