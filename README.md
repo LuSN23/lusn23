@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 No momento aprendendo JavaScript
+- 🌱 No momento aprendendo JavaScript e Python
 - 😄 Pronomes: ela/dela
 
 <!--Cartões com as estatísticas-->
